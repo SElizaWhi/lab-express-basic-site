@@ -1,5 +1,7 @@
 body {
+    font-family: Arial, Helvetica, sans-serif;
     text-align: center;
+    padding: 25px 80px;
 }
 
 #home-body {
@@ -8,6 +10,10 @@ body {
 
 #about-body {
     background-color: rgba(176, 77, 30, 1);
+}
+
+#about-miles {
+    font-size: 1.5em;
 }
 
 #works-body {
