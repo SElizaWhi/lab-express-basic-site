@@ -12,8 +12,8 @@ body {
     background-color: rgba(176, 77, 30, 1);
 }
 
-#about-miles {
-    font-size: 1.5em;
+p {
+    font-size: 1em;
 }
 
 #works-body {
