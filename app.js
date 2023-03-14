@@ -18,6 +18,10 @@ app.get("/works", (request, response, next) => {
     response.sendFile(__dirname + '/views/works.html')
 });
 
+app.get("/gallery", (request, response, next) => {
+  response.sendFile(__dirname + '/views/gallery.html')
+});
+
 app.listen(3001, () => {
   console.log("server listening");
 });
