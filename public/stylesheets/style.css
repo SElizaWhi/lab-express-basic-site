@@ -21,6 +21,10 @@ h2, h1 {
 }
 
 #works-body {
+    font-size: 1em;
+}
+
+#works-body {
     background-color:rgb(30,129,176);
 }
 
